@@ -9,6 +9,6 @@ Many more features to be added such as online auctioning, integrating blockchain
  <h2> One of my reasons to make this application: </h2>
  <h3> To work with Rest API's in flutter using Nodejs </h3>
 <img src = "https://user-images.githubusercontent.com/76823502/133894868-3b829036-666f-4d56-8732-0f2bd1414f1f.png">
-<img src = "https://user-images.githubusercontent.com/76823502/133894878-2726b390-f8e0-428e-a9d0-bb94db47297b.png">
+<!-- <img src = "https://user-images.githubusercontent.com/76823502/133894878-2726b390-f8e0-428e-a9d0-bb94db47297b.png"> -->
 
 
