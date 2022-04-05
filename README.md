@@ -1,4 +1,4 @@
-# bookfetch
+# Bookfetch
 
 A new Flutter project.
 
